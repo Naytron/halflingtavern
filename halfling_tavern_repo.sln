@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{252FD226-4D1E-AD59-7C4E-51EC5721E793}") = "halfling_tavern_repo", "Assembly-CSharp.csproj", "{EA673A4D-146B-5DBF-E532-C9E27706CABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA673A4D-146B-5DBF-E532-C9E27706CABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA673A4D-146B-5DBF-E532-C9E27706CABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA673A4D-146B-5DBF-E532-C9E27706CABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA673A4D-146B-5DBF-E532-C9E27706CABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
