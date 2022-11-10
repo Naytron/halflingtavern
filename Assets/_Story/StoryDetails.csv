@@ -1,0 +1,235 @@
+Chap_Name,Scene_Name,Animation_Clip,Dialogue
+Intro,Intro_Sc_1,INtro_New_Sc_1_HandMove,"Ahh, good Ale and good company, I could run a tavern like this. - One more pint, and then I’ll be getting’ home before me mum tans me backside with her kettle spoon"
+Intro,Intro_Sc_2,Intro_New_Sc_2_UncleMove,"hahaha! that half wit, Dingis Widebottom.. he will never do anything with his life.. Hey, Dingis. how ‘bout a game of dice young friend??"
+Intro,Intro_Sc_3,Intro_New_Sc_3_WizardMove,Hello Dingis. I'm the owner of the Tavern you frequent so much. I've been watching you.
+Intro,Intro_Sc_3,Intro_New_Sc_3_DingiMove,"Pardons tall friend, how do you know my name?"
+Intro,Intro_Sc_3,Intro_New_Sc_3_WizardMove,"It doesn't take a wizards spell to deduce that. Nevermind that, what can I do for you?"
+Intro,Intro_Sc_3,Intro_New_Sc_3_DingiMove,"I need a job sir. I could help you here at the tavern…if me mum learns I lost all me pay to them ruddy tree humpers, she’ll goat whip me! Or worse, she’ll send me to bed without supper! Help!!"
+Intro,Intro_Sc_4,Intro_New_Sc_4_WizardMove,"Tell you what, I’ll do even better.  I have urgent business to attend to. Take the key to the tavern. I need someone to run it during the day hours. "
+Intro,Intro_Sc_4,Intro_New_Sc_4_DingiMove,Wait!... I know nothin’ about serving dwarves & elves!! And what about my supper…??
+End_Day_1,Intro_Sc_2,Intro_New_Sc_2_DingiMove,"All this work has made me thirsty.  Perhaps a quick pint of my own…(While drinking your tasty refreshing beverage, you can’t help but overhear some of the townsfolk chatter.)"
+End_Day_1,Intro_Sc_2,Intro_New_Sc_2_UncleMove,I heard Ol’ Farmer McGee is missing 12 chickens this time.
+End_Day_1,Intro_Sc_2,Intro_New_Sc_2_BoyMove,That old man is full of tales o’ lore and dark magic.  Nothin’ but stories to scare the little ones if you ask me.
+End_Day_1,Intro_Sc_2,Intro_New_Sc_2_UncleMove,"He says it happens in the middle of the night, with no trace of the thieves, but a feelin’ o’ dark magic in the air come mornin."
+End_Day_1,Intro_Sc_2,Intro_New_Sc_2_BoyMove,"Oh, yes.. yes… next he’ll be fillin your head with stories of the dark kind beyond the broken bridge I suppose?"
+End_Day_1,Intro_Sc_2,Intro_New_Sc_2_UncleMove,And just where do you suppose his chickens is goin’ then?
+End_Day_1,Intro_Sc_2,Intro_New_Sc_2_BoyMove,"How would I know?... probably being eaten by that very large wife of his!  Ha Ha!...(Dingis finishes his pint, and decide it’s time to be getting home.)"
+End_Day_1,End_Day_1_Sc_2,End_Day_1_Sc_2_DingiSing,"*singing* Curvy maids a dancin’, I’ll take one home tonight… and wed come winters mornin’, and bed come summers night…"
+End_Day_1,End_Day_1_Sc_3,End_Day_1_Sc_3_DingiWakeUp,"Uhh, a few pints too many... Dark magic, shadows, missing chickens. Grampa Mcgee!"
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_DingiWaveHand,Morning Gaffer!
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,Were you and your friends sneaking around here last night?
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,"What? No… no, of course not…"
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,"Hmmm…. Well, my chickens keep disappearing in the night.  Lost 12 the other night.  Dark magic if you ask me. "
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,Dark magic Gaffer?  Here in the Crest?
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,"Ah, you’re just like the others.  Considering what land you live on, I’d think you’d know better boy."
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,The land I live on?  What do you mean?
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,Of course you don’t know…probably would never have moved on that land…the farmer trails off and suddenly looks distant.
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,Gaffer?
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,"The farmer looks at you again, this time with curiosity, and a flash of anger… "
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,"I’ve lived on this land for eleventy one years, and in all that time no one has lived closer to that there chasm as I have.  Perhaps that’s why I still remember.  "
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,Remember what?
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,"We live on Darkling land, boy."
+End_Day_1,End_Day_1_Sc_4,End_Day_1_Sc_4_Idle,Darkling ?
+End_Day_2,End_Day_2_Sc_1,End_Day_2_Sc_1_ClothFly,"Nasty no good swamp, amazing anything grows here at all. Those fat Widebottoms sitting on our lush green fatland ."
+End_Day_2,End_Day_2_Sc_2,End_Day_2_Sc_2_UncleHandMove,Where  were you last night?!
+End_Day_2,End_Day_2_Sc_2,End_Day_2_Sc_2_DarklingHeadMove,"Busy digging up grubs uncle Brentas, saw some big Catfish biting down at the pond."
+End_Day_2,End_Day_2_Sc_2,End_Day_2_Sc_2_UncleHeadMove,"Hmmm… well, come with us tonight.  We’re going to get some more chickens and pipe weed from the old Halfling farmer across the chasm. "
+End_Day_2,End_Day_2_Sc_2,End_Day_2_Sc_2_DarklingHandMove,"When will you learn, we will never get our lands back from those lying Widebottom scoundrels."
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_WizardHeadMove,Hello Master Dartling.
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_DarkHandMove,Hi mr boss sir.
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_WizardHeadMove,You were late again to work last night. I need you at my Tavern at 10:30 on the dot. Customers will not tolerate going a minute without their ale. 
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_DarkHeadMove,"Apologies, my meddlesome uncle held me up…"
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_WizardHandMove,I have brought you something….
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_Idle,The wizard holds out a small pulsing glowing orb.
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_DarkHeadMove,What is that? 
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_Idle,You can’t seem to take your eyes off it.
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_WizardHeadMove,I am aware of your troubles young Dartling. In time this object will help you take back your lost lands from the Widebottoms across the bridge.
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_Idle,Dartling continues staring at the glowing stone.
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_WizardHandMove,Take it.  Hide it in the Tavern for now and I will explain later.
+End_Day_2,End_Day_2_Sc_3,End_Day_2_Sc_3_WizardHeadMove,Hide it well…
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_BrentaHead,"Wake up boy, you skipped out on our raid again last night"
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_DarklingHead,Uncle Brentas? What happened? 
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_BrentaHand,That fat farmers even fatter wife chased us off with her wooden spoon.
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_DarklingHead,She saw you?
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_DarklingHead,You know I have to work at the Wizards tavern at night.
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_BrentaHand,"You need to be getting your head and priorities straight boy, those stupid fat Widebottoms have been raping our lands for 100 years. It’s time we pay them back!"
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_DarklingHead,Uncle.. I was given something.
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_BrentaHead,Well what is it then?
+End_Day_3,End_Day_3_Sc_1,End_Day_3_Sc_1_DarklingHead,Can't explain now but.. I might have something that can help us get our lands 
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_FarmerHead,Blasted Darklings!?
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_DingiHead,Darklings?
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_FarmerHead,"They come sneakin cross that bridge, mi ole’ woman got a good look at them. They be coming over stealing my pipe weed and chickens for sure.  "
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_FarmerHead,"Don’t meddle with dark magic boy, or you could also end up like those darkling neighbors of yours."
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_DingiHead,But you’re my only neighbor Master McGee…
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_FarmerHead,"in the swamps.  Night creatures they are, never come out in the daytime, nobody sees them, but they are there.  Dark evil things they are, never met one myself, they were banished before my time, but my ol’ Papa told me all about them.  Stay away from the dark magic, your land is cursed with it."
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_FarmerHead,"Fool of a halfling! Across the chasm, across that bridge on your land.  There was another fool halfling that meddled in dark magic.  owned the same land you live on.  Maybe they still do.  Bristol Dartling was his name.  Went to trial for using dark magic.  Got banished just over yonder across that chasm"
+End_Day_3,End_Day_3_Sc_2,End_Day_3_Sc_2_FarmerHead,"They are nothing but murderous, filthy, lying thieves"
+End_Day_3,Intro_Sc_3,Intro_New_Sc_3_WizardMove,Hello young Dingis. Your good work in my tavern has been noted by my customers
+End_Day_3,Intro_Sc_3,Intro_New_Sc_3_DingiMove,Thank you Wizard sir.
+End_Day_3,Intro_Sc_3,Intro_New_Sc_3_WizardMove,There have been whispers your family is having other concerning matters across the Bridge?
+End_Day_3,Intro_Sc_3,Intro_New_Sc_3_DingiMove,"yes well, it’s thieving Darklings, stealing me Gaffer Mcgees chickens and what not. Nasty people those Darklings."
+End_Day_3,Intro_Sc_3,Intro_New_Sc_3_WizardMove,Nasty? You know very little indeed.
+End_Day_3,Intro_Sc_3,Intro_New_Sc_3_DingiMove,"Well I never really met one but they have done my family wrong, Gaffer tells me."
+End_Day_3,Intro_Sc_3,Intro_New_Sc_3_WizardMove,Your Gaffer eh.. 
+End_Day_3,End_Day_3_Sc_4,End_Day_3_Sc_4_WizTake,Take this Dingis
+End_Day_3,End_Day_3_Sc_4,End_Day_3_Sc_4_DingiHand,What is it?
+End_Day_3,End_Day_3_Sc_4,End_Day_3_Sc_4_WizHead,Never mind that for now
+End_Day_3,End_Day_3_Sc_4,End_Day_3_Sc_4_DingiHand,"But, what.."
+End_Day_3,End_Day_3_Sc_4,End_Day_3_Sc_4_WizHead,"Just know It will help you with those Dartling… er.. Darkling visitors of yours. Hide it in the Tavern, keep it safe.Noone is to know about it. "
+End_Day_3,End_Day_3_Sc_4,End_Day_3_Sc_4_DingiHand,But me Gaffer…
+End_Day_3,End_Day_3_Sc_4,End_Day_3_Sc_4_WizHead,Especially that old Farmer.
+End_Day_3,End_Day_2_Sc_2,End_Day_2_Sc_2_UncleHeadMove,Ole Widow Stufflebrew wants you to pay her a visit. I think she’s got something to help us with them nasty Fatlings.
+End_Day_3,End_Day_2_Sc_2,End_Day_2_Sc_2_DarklingHandMove,Hmmmm….
+End_Day_3,End_Day_2_Sc_2,End_Day_2_Sc_2_UncleHeadMove,"Here, take some of these chickens, along with some tasty pumpkins to Old Widow Stufflebrew.  The news of our new development here, along with some stew, may help revive her tired bones."
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_GrandMaMove,"Thank you for the chickens, but I don’t care for pumpkins youngling.  "
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_darkling,"Sorry Widow Stufflebrew, Uncle Brentas thought you might enjoy a stew from them. "
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_GrandMaMove,That fool Brentas has forgotten too much.
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_darkling,Forgotten?
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_GrandMaMove,"My mother would never have allowed a pumpkin to be grown on these lands.  She was there when our Father Bristol grew the largest pumpkin the Crest had ever seen, and was accused of using dark magic to grow it.  Fatling liars!"
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_darkling,Bristol Dartling was a farmer?
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_GrandMaMove,Is no one teaching you your own history youngling?  Our family was once the grandest farmers in the Crest!  Until we were cheated out of our land and cast out to this forsaken swamp that grows so little we turned to hunting for our well-being.
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_darkling,The foul Widebottoms are the reason for us living in these infested Swamps then? I knew it! 
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_GrandMaMove,That’s not all youngling. They murdered our Father Bristol out of petty jealousy for his winning that pumpkin contest.
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_darkling,"What!? Murder?! We can tolerate these insufferable Widebottoms no longer. Tonight I’m going with Uncle Brentas, we’ll make them pay! "
+End_Day_4,End_Day_4_Sc_1,End_Day_4_Sc_1_GrandMaMove,Now you’re talking like a Dartling. Toss your nasty pumpkins into the chasm where it belongs and take up our family cause to rid this land of those Widebottoms… I may have something to aid you. I will come visit in a few days.
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_WizardMove,We have a problem
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_DingiMove,Problem? We do?
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_WizardMove,"A traveler has arrived in the crest.  He is asking questions, too many questions.  "
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_DingiMove,"Oh! Yes, yes.  We get many travelers in this area.  The Crest is quite famous for our pipe leaf you know…"
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_WizardMove,Unfortunately this traveler is not after your Halfling leaf. He has come for the spark.
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_DingiMove,"The spark?  Who is this traveler, can we sell it to him?"
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_WizardMove,Dimwitted Halfling.  Your leaf is slowing your wits… That spark is the only thing that can destroy the… 
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_WizardMove,"What will you do when those darklings come back for their land?  Stealing Chickens today, but what of tomorrow? What will you do when they come with a darkling army Halfling?  They will kill any townsfolk that stands in their way."
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_DingiMove,Army? Darklings?  What shall we do? Are they coming now?
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_WizardMove,Why do you think I gave you that spark?
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_DingiMove,What can a shiny stone do against such evil? How do I use it? I was thinking to give it Berty Merrywaters in hopes for a goodnight kiss.
+End_Day_4,Intro_Sc_3,Intro_New_Sc_3_WizardMove,"Fool! Keep it secret, keep it safe, and keep your good eye out for a suspicious traveler."
+End_Day_4,End_Day_4_Sc_3,End_Day_4_Sc_3_TravHeadMove,Greetings young Halfling.
+End_Day_4,End_Day_4_Sc_3,End_Day_4_Sc_3_DingiMove,"Oh, Hello! H-h-how can I h-help you?"
+End_Day_4,End_Day_4_Sc_3,End_Day_4_Sc_3_TravHandMove,I am hoping you might be able to help me. I have traveled across many lands in search of something that was stolen from me. It is a precious item that has been in my family for generations.
+End_Day_4,End_Day_4_Sc_3,End_Day_4_Sc_3_DingiMove,"I’m sorry to hear it. You must be very tired, traveling here n’ all.  Would you care for something to quench your thirst?"
+End_Day_4,End_Day_4_Sc_3,End_Day_4_Sc_3_TravHeadMove,"I would like to ask you some questions young Halfling, but yes, I suppose some ale would not go amiss."
+End_Day_4,End_Day_4_Sc_3,End_Day_4_Sc_3_DingiMove,To the Tavern then good sir
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_Idle,Old Widow Stufflebrew visits your farm.
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaWalk,Here youngling. Some stew from those chickens you brought.
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_DarklingHead,Thank you Mistress Stufflebrew
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,Also I brought special serum for our Halfling troubles.  
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_DarklingHead,Serum?
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,"Yes youngling.  You want to get rid of those halflings? This serum will help, and more."
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_DarklingHead,(Darkling getting excited)What does it do?
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,There is an All Crest Pumpkin growing contest coming up. 
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,Everyone in the Crest is invited.. That means they can’t keep even us from coming.
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_DarklingHead,I have a very large Pumpkin already growing in my garden. 
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,fiddlesticks to your blastid pumpkin. This will simply allow us to get close enough.
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_DarklingHead,Close enough for what?
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,Pour that serum on that pumpkin you’re growing and bring it to me once its nice and plump
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_DarklingHead,What will you do with it?
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,I will make them delicious pumpkin snaps their fatling faces won’t be able to resist.
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_DarklingHead,Will it kill those Widebottom fools?
+End_Day_5,End_Day_5_Sc_1,End_Day_5_Sc_1_GrandMaArm,"Nay, but they will wish it were poison.. Those snaps will have them locked in their squatsheds for an entire moon."
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,How is our friend doing?
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,"He is in the tavern, asking suspicious questions about the Spark, and talking with the townsfolk.  We can’t afford to keep distracting him with our best ale!"
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,"You Fool, you led him to the same spot the sparks are hidden?"
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,"Sparks? Can’t you take him for a while, and get him out of the tavern?"
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,No… but perhaps we can rid ourselves of his prying for a time.  Have you any pipe leaf?
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,"I’ve already given half the ale, now you want my leaf too??"
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,Dimwitted Halfling… an infusement of pipe leaf with a pinch of common costmary produces a strong sleeping drought.  Potent enough to make a giant cusith sleep for days… 
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,"Sleep for days?  Yes, I could use some rest…"
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,Not for you! You slowminded…  Ah hem…  For the traveler.
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,"Oh, yes, of course, the traveler.  Good idea."
+End_Day_5,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,"You will need an alchemy for the infusement, and somewhere for our friend to lay his head once it's administered of course."
+End_Day_5,End_Day_5_Sc_3,End_Day_5_Sc_3_Idle,As Halfling helps the traveler walk to the Inn:
+End_Day_5,End_Day_5_Sc_3,End_Day_5_Sc_3_Walk,Thank you young Halfling.  Truly your Crest Ale is as strong as legend tells.  I find myself nere able to walk…  
+End_Day_5,End_Day_5_Sc_3,End_Day_5_Sc_3_Idle_Front,Were it not for my purpose here I might find your land and hospitality quite enjoyable..
+End_Day_5,End_Day_5_Sc_3,End_Day_5_Sc_3_DingiHead,Purpose sir?
+End_Day_5,End_Day_5_Sc_3,End_Day_5_Sc_3_Idle_Front,I must find it… must return it… 
+End_Day_5,End_Day_5_Sc_3,End_Day_5_Sc_3_Idle_Front,It was stolen you see… a powerful young wizard.  Stolen from the Elders.  Must return it… too much power.  Need to destroy it… no one can possess such power…
+End_Day_5,End_Day_5_Sc_3,End_Day_5_Sc_3_Idle_Front,The traveler passes out as Dingis takes him to his room.
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,Wizard comes to visit the Darkling
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,I hear you’re planning something special for the upcoming pumpkin contest?  Unfortunately the Halflings know and are making plans of their own.  
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_Darkling_Head,Those dirty Halflings!  How did they know if this? How did you know of this? What plans are they making?? 
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,"Don’t underestimate me young Dartling, or the Widebottoms hate for your family, they will stop at nothing to see you finished."
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_Darkling_Head,What can we do? 
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,hmmm. Yes.. You must beat them at their own game. Win that silly pumpkin contest.
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_Darkling_Head,"My plants barely grow in this swamp… we are hunters here, we are night people.  Not fat farming Halflings!"
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,"Yes, but there are other ways. The gift of growing runs deep in your family. "
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,Have you not heard of Bristol? He used to win that contest every year. Its time you learn of the gifts of your ancestors.
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_Darkling_Head,Bristol?  Yes Madam Stufflebrew told me he was a farmer. He was known for large pumpkins!  Won that contest!
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,"Yes, the contest that took his life."
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_Darkling_Head,You mean the fat Halflings that killed him?!
+End_Day_6,End_Day_6_Sc_1,End_Day_6_Sc_1_WizHead,"Yes, those fat Halflings.  See to that pumpkin! (do we need to ad something about dont poison them with pumpkin snaps?)"
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,Hello my young friend!
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_DingiHead,"Oh, hello Regent Brimbuckle!  What brings you to my small farm?  Care for some Tea? How about some cheese?"
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,Yes thank you! You’ve developed quite a thriving farm here young sir.
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_DingiHead,Thank you Regent.  What can I do for you today?
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"Our annual pumpkin growing contest is coming up, are you planning on entering?"
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_DingiHead,"Contest?  No, no, not me, much too busy you see..."
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"Rubbish!  Of course you’re entering!  Good soil you have here you know, biggest pumpkin in all of the crest came from this here ground!  Still on record down at the town hall… why, I remember my father talking about it. He was just a boy of course… the old Darkling story if I’m correct."
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_DingiHead,Darkling Story?  What story is that Master Brimbuckle?
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"Why, you know of course!  The Darklings boy!  Just a story some say, but my father was there you see.  My grandfather was the Town Regent at the time. Halflings have lived in The Crest for as long as anyone can remember.  It is one of the oldest Halfling communities known.  "
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"5 generations ago, (nearly 150 years) the eldest of a particularly prominent family in The Crest, Bristol Dartling, was brought to community trial on the accusations of the use of dark magic to grow the biggest pumpkin these people had ever seen.  He was guilty if you ask me, but whether or not the jury thought so, no one ever found out, as during the course of the trial he was hit on the head with a large turnip, and instantly died."
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"(No one ever found out who threw the deadly turnip, but it was widely believed it sprang from –and did indeed come from the general direction of- Balbus Widebottom, who had recently come in second place in the annual pumpkin growing contest to Mr. Dartling).  Most of the townspeople knew Mr. Dartling was guilty and that the fortuitous turnip only confirmed such, however there were some, including his family and close friends, that fought adamantly in his defense to the point of causing much contention and even an uprising."
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"The contentions grew so bad in fact that all the “Dartlings”, (or “Darklings” as they began to be called), were rumored to be involved in dark magic, and were eventually forced out of their village, shunned by other villages, and were forced to find refuge across the chasm, in the most unfarmable murkiest land in the nethermost parts of the Crest."
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"They are still living there today, forgotten by civilized Crest society, living only amongst themselves, and still believing they were cheated out of their lands and reputation.  Angry they are.  They curse this land with their dark magic.  They kill our animals and steal our crops.  And more than anything else, they want their land back.  It’s there, they say, that their dark magic rooted itself into the very ground.  And they vow to take it back…."
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_DingiHead,Dear me!
+End_Day_6,End_Day_6_Sc_2,End_Day_6_Sc_2_BrimbuckleHead,"Well, thanks for the tea young sir, see you at the contest!"
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_FarmerHead,Largest Pumpkin?  Trying to win that contest are you?
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_DingiHead,"Contest?  Well yes.. I just want to learn farming secrets from the best farmer in the Crest!  I’ve heard Ale helps crops grow large, and I’ve lost half my stock pouring it on my sprouts!"
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_FarmerHead,"Ale?  Foolish youngling…. There is no secret to farming, good seeds make good crops!"
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_DingiHead,Do you know anything about how Bristol Dartling died years ago?
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_FarmerHead,You mean hit in the Head by a giant turnip? (hahaha)
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_DingiHead,"Well yes, is it true we kicked the Dartlings off their own land?"
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_FarmerHead,"Poppycock, they are an evil people, thieves, and full of dark magic."
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_DingiHead,Dark Magic?
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_FarmerHead,You never seen such a pumpkin that Bristol brought to the contest that year.. Was said to have weighed over 500 stones.
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_DingiHead,wow!
+End_Day_6,End_Day_6_Sc_3,End_Day_6_Sc_3_FarmerHead,"Unnatural it was, and that kind of magic is forbidden in these parts.. There be no place for people like that. "
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_Idle,"The traveler awakens in the swamp, and quickly stands, trying to remember the events that brought him here.  (screen shot, swampy night) He looks around:"
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_TravHand,"Wha… where am I? Some Festering Swamp..? He must have found me, he tried to kill me…"
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_Idle,"From behind him, the Traveler hears a voice"
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_DarklingHead,Who are you?  What are you doing here?
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_TravHand,I uh..
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_DarklingHead,"Answer my question or you will be left to fend for yourself, and I assure you, you won’t last long in this swamp."
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_TravHead,Last I remember I was at an Inn on a Halfling farm.  He lied to me and left me here for dead.  
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_DarklingHead,What do you know of Halflings?
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_TravHead,"He works at the tavern with the Wizard, he has it I tell you."
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_DarklingHead,I could leave you here to die. What are you rambling about?
+End_Day_7,End_Day_7_Sc_1,End_Day_7_Sc_1_TravHead,"The Wizard, the Halfling… The Spark. (Traveler passes out)"
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_Idle,Halfling goes to visit the Wizard
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,"Greetings young Halfling, what are you doing here?  Have I not impressed the importance of the work you are doing at the tavern?"
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,The traveler is gone.
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,Gone?  Where?
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,He must have wandered off in the night!  I thought you said he would sleep for days!
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,And I thought I told you to keep an eye on him.  One doesn’t always stay in the same place when one sleeps. 
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_DingiHead,My half cousin on my mothers side often sleep walks; once he woke up in a pig trough.  Probably would have kept sleeping had one of the pigs not bitten one of his toes clear off!
+End_Day_7,End_Day_5_Sc_2,End_Day_5_Sc_2_WizHead,Fool of a Widebottom… we must find him.. hunt him down.
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_Idle,Darkling goes to visit the Wizard
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_WizMove,Greetings young Master.  How can I help you?
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_DarklingMove,Who is this young Halfling that runs your tavern during the day?
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_WizMove,Hmmm… why that’s Dingus Widebottom
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_DarklingMove,What?! How could you employ him?  YOU are on their side?  I should kill you now!
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_WizMove,I wouldn’t recommend trying.  Now calm yourself young Dartling.  Would I be on their side if I gave you such a weapon to destroy them?
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_DarklingMove,What the Spark? You have told me nothing of the spark?!
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_WizMove,Is it hidden well?
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_DarklingMove,"yes, as you asked."
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_WizMove,"There exists conflicts far beyond your petty squabble with your brothers on the other side of the chasm Master Dartling.  The question is, to which side do your loyalties lie? "
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_DarklingMove,Which side?  My side!  My family's side!  My family was wronged and we intend to avenge ourselves!
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_WizMove,"Still as small minded as your fat relative I see. The Halflings are coming for you Master Dartling.  Do you intend for them to rule the Crest forever?  Your only choice is to obey me and as I said I will ensure you get your lands back. Grow the pumpkin, keep the spark safe."
+End_Day_7,End_Day_7_Sc_3,End_Day_7_Sc_3_DarklingMove,"I warn you, If you are on their side, you will fall as they will."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"Ah, Master Darting.  I appreciate your assistance."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_DarklingHead,"I’m here for answers Traveler, nothing more."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,Still unwilling to see the truth are you?  Or perhaps just unwanting?
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_DarklingHead,And whose truth do you speak of traveler?  I will not be a pawn in someone else’s game.
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"Oh, but you are Master Dartling.  You are.  Sit down and let me tell you a story.  A past long forgotten.  Grab another pint, you’ll need it."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"1000 years ago the earth was divided and ruled by armies of men.  There were many kings and kingdoms and they often pitted themselves against each other in war to gain more land and possessions.  The few remaining Elves in this land (those that didn’t sail to the Eastern world) largely stayed out of it dwelling in their peaceful forests, as did the remaining Dwarves to their underground caverns."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"Around that time, a great demon of the underworld, called a Vroduk, rose out from out of the Earth and walked the land, destroying everything in its path. Heroes were killed and armies were obliterated.  Nothing could stop the fell demon.  In one last effort to kill the Vroduk, all of the remaining armies of men, including some of the remaining elves and dwarves, "
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"and even a few of the known wizards, made a truce and gathered together as one united force.  They met the Vroduk and fought it, and just as it looked as the battle may be successful, the demon cast a dark spell that opened up the Earth and swallowed nearly everyone on the battlefield, including itself."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"To verify its death, a young wizard climbed deep into the chasm, miles underground and found the beast still alive, though barely.  Using powerful magic, it is said he extracted the life force from the Vroduk and mixed it with the departing souls of the dead men to encapsulate the great evil.  "
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,He returned to the surface with the life spark and gave it to the Elders (a group of monks that guard the great libraries) in the northern mountains to keep safe. The wizard claimed that this spark would be the only defense against the demons of the underworld if they came to the surface again.
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_DarklingHead,"Very interesting story Traveler, but why are you telling me this?"
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"Not long after this winter began, that very spark was stolen.  Not long before your Wizard friend arrived in the Crest."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_DarklingHead,The Wizard?  The spark?
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"Yes, you are beginning to understand.  He’s working with the Halflings and playing you for a fool.  He’s quite powerful, but together we can stop him."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_DarklingHead,This is a game for wizards.  I just want my family’s land back.
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_GuardianMove,"And so you shall have it Master Darting. Help me retrieve the spark, and I will ensure you have your land. I will show you the sparks true power."
+End_Day_7,End_Day_7_Sc_4,End_Day_7_Sc_4_DarklingHead,what do you want me to do?
