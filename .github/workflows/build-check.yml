@@ -9,6 +9,8 @@ jobs:
   build:
     name: Build Unity Project
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     
     steps:
       # Checkout repository
